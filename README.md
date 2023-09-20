@@ -44,7 +44,7 @@ A biblioteca recoil foi utilizada para que dados fossem compartilhados entre com
 1. Clone este repositório em sua máquina local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/BrouGabri3l/pokedex.git
+   git clone https://github.com/kessiarodrigues/pokemon.git
    ```
 
 2. Navegue até a pasta do projeto:
